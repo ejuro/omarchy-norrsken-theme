@@ -1,0 +1,70 @@
+/* Norrsken — aurora-green surfaces and accents for GTK 3 / GTK 4. */
+@define-color window_bg_color #050C0B;
+@define-color window_fg_color #CDF2E3;
+@define-color view_bg_color #050C0B;
+@define-color view_fg_color #CDF2E3;
+@define-color headerbar_bg_color #0C1A17;
+@define-color headerbar_fg_color #CDF2E3;
+@define-color headerbar_backdrop_color #0C1A17;
+@define-color headerbar_border_color #2F5347;
+@define-color headerbar_shade_color rgba(0, 0, 0, 0.20);
+@define-color sidebar_bg_color #0C1A17;
+@define-color sidebar_fg_color #6F9A8C;
+@define-color sidebar_backdrop_color #0C1A17;
+@define-color sidebar_border_color #2F5347;
+@define-color sidebar_shade_color rgba(0, 0, 0, 0.20);
+@define-color secondary_sidebar_bg_color #0C1A17;
+@define-color secondary_sidebar_fg_color #6F9A8C;
+@define-color secondary_sidebar_backdrop_color #0C1A17;
+@define-color secondary_sidebar_border_color #2F5347;
+@define-color secondary_sidebar_shade_color rgba(0, 0, 0, 0.20);
+@define-color card_bg_color #0C1A17;
+@define-color card_fg_color #CDF2E3;
+@define-color popover_bg_color #0C1A17;
+@define-color popover_fg_color #CDF2E3;
+@define-color dialog_bg_color #0C1A17;
+@define-color dialog_fg_color #CDF2E3;
+@define-color thumbnail_bg_color #0C1A17;
+@define-color thumbnail_fg_color #CDF2E3;
+@define-color card_shade_color rgba(0, 0, 0, 0.20);
+@define-color popover_shade_color rgba(0, 0, 0, 0.30);
+@define-color accent_bg_color #5DFFB0;
+@define-color accent_fg_color #050C0B;
+@define-color accent_color #5DFFB0;
+@define-color destructive_bg_color #FF6F91;
+@define-color destructive_fg_color #050C0B;
+@define-color destructive_color #FF6F91;
+@define-color error_bg_color #FF6F91;
+@define-color error_fg_color #050C0B;
+@define-color error_color #FF6F91;
+@define-color warning_bg_color #FFE08A;
+@define-color warning_fg_color #050C0B;
+@define-color warning_color #FFE08A;
+@define-color success_bg_color #B6FF7A;
+@define-color success_fg_color #050C0B;
+@define-color success_color #B6FF7A;
+@define-color borders #2F5347;
+@define-color unfocused_borders #2F5347;
+@define-color shade_color rgba(0, 0, 0, 0.25);
+@define-color theme_bg_color #050C0B;
+@define-color theme_fg_color #CDF2E3;
+@define-color theme_base_color #050C0B;
+@define-color theme_text_color #CDF2E3;
+@define-color theme_selected_bg_color #5DFFB0;
+@define-color theme_selected_fg_color #050C0B;
+@define-color insensitive_bg_color #0C1A17;
+@define-color insensitive_fg_color #6F9A8C;
+@define-color insensitive_base_color #0C1A17;
+@define-color theme_unfocused_bg_color #050C0B;
+@define-color theme_unfocused_fg_color #6F9A8C;
+@define-color theme_unfocused_base_color #050C0B;
+@define-color theme_unfocused_text_color #6F9A8C;
+@define-color theme_unfocused_selected_bg_color #12352B;
+@define-color theme_unfocused_selected_fg_color #CDF2E3;
+@define-color link_color #5DFFB0;
+@define-color visited_link_color #C99CFF;
+
+selection { background-color: #12352B; color: #F0FFF8; }
+button.suggested-action { background-color: #5DFFB0; color: #050C0B; }
+button.suggested-action:hover { background-color: #95FFD0; color: #050C0B; }
+button.destructive-action { background-color: #FF6F91; color: #050C0B; }

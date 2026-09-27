@@ -1,0 +1,36 @@
+# Norrsken: Aurora green on a deep green-black, with violet edges.
+mode = "dark"
+
+accent = "#5dffb0"
+selection = "#12352b"
+muted = "#2f5347"
+
+background = "#050c0b"
+dark_background = "#040908"
+darker_background = "#020605"
+lighter_background = "#0c1a17"
+
+foreground = "#cdf2e3"
+dark_foreground = "#6f9a8c"
+light_foreground = "#dcf8ec"
+bright_foreground = "#f0fff8"
+
+red = "#ff6f91"
+yellow = "#ffe08a"
+orange = "#ffb07a"
+green = "#b6ff7a"
+cyan = "#5dffb0"
+blue = "#7fc4ff"
+magenta = "#c99cff"
+brown = "#7a6a50"
+
+bright_red = "#ff8fa9"
+bright_yellow = "#ffeaa8"
+bright_green = "#cfff9f"
+bright_cyan = "#95ffd0"
+bright_blue = "#a6d6ff"
+bright_magenta = "#dcbaff"
+
+# Hairline window edges: accent fading into the second accent on the active window.
+hyprland_active_border = "rgba(5dffb0ee) rgba(9d8cffcc) 45deg"
+hyprland_inactive_border = "rgba(ffffff1a)"
