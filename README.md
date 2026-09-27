@@ -4,7 +4,7 @@ An Omarchy theme in aurora green on a deep green-black, with violet-edged window
 
 ![Norrsken desktop preview](preview.png)
 
-Neovim, fastfetch, and a terminal listing using Norrsken with the full glass effect.
+Neovim, a music visualizer, [Flea](https://github.com/ejuro/flea), and [Omawrite](https://github.com/ejuro/omawrite) using Norrsken with the full glass effect.
 
 ## Background
 
