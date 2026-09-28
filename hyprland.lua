@@ -55,10 +55,10 @@ hl.config({
   },
 })
 
--- Terminals, the Omarchy About window, Omawrite and Flea become glass panes;
--- everything else stays opaque for readability.
+-- Terminals, the Omarchy agent and About windows, Omawrite and Flea become
+-- glass panes; everything else stays opaque for readability.
 hl.window_rule({
-  match = { class = "^(com.mitchellh.ghostty|Alacritty|kitty|foot|org.omarchy.about|omawrite|com.thisisgm.flea)$" },
+  match = { class = "^(com.mitchellh.ghostty|Alacritty|kitty|foot|org.omarchy.about|org.omarchy.agent|omawrite|com.thisisgm.flea)$" },
   tag = "-default-opacity",
   opacity = "0.84 override 0.76 override",
 })
